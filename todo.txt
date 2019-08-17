@@ -1,2 +1,0 @@
-make sure the token is being set to the req.headers. <- For update, meetups and subscriptions.
-make sure the right image is being assigned to the proper table
